@@ -1,0 +1,1 @@
+# pavlodar-ikea-shop
