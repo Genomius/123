@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+env/
+project/static/admin/
+project/media/
+*.sqlite3
